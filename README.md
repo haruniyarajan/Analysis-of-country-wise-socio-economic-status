@@ -1,4 +1,4 @@
-# Analysis-of-country-wise-socio-economic-status
+# Analysis-of-country-wise-socio-economic-status using unsupervised machine learning technique - clustering and PCA
 
 Objective: The dataset contains country wise details of economic and social aspects. So, grouping of underprivileged and privileged people are identified on the basis 
 of their GDP, mortality rate and life expectancy.
